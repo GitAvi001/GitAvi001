@@ -1,1 +1,5 @@
-Hi! currently I'm a Undergraduate student of UCSC...I'm happy to use GitHub for my Projects
+Computer Science Undergraduate at UCSC
+
+Linkedin URL: https://www.linkedin.com/in/avindu-dharmawardhana-4a1771231
+
+medium URL: https://medium.com/@avindusridharmawardhana
