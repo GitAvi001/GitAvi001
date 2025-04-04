@@ -107,6 +107,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" alt="linux" width="40" height="40"/> 
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/> 
 </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
