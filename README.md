@@ -59,7 +59,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="typescript" width="40" height="40"/> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="NextJjs" width="40" height="40"/> 
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="Vite" width="40" height="40"/> 
 </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -68,13 +71,28 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="Go" width="40" height="40"/> 
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" alt="FastAPI" width="40" height="40"/> 
+</a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" width="40" height="40"/> 
 </a> 
 <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> 
 </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+</a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" alt="R" width="40" height="40"/> 
+</a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Octave-Dark.svg" alt="Octave" width="40" height="40"/> 
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
@@ -85,6 +103,9 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/> 
+</a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </a>
@@ -93,7 +114,22 @@
 </a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-</a>   
+</a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VScode" width="40" height="40"/> 
+</a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="Intellij" width="40" height="40"/> 
+</a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="Pycharm" width="40" height="40"/> 
+</a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="40" height="40"/> 
+</a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/> 
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitavi001&show_icons=true&locale=en&layout=compact" alt="gitavi001" /></p>
