@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Avindu</h1>
-<h3 align="center">Currently, I'm a Computer science undergraduate in UCSC, well enthusiast about Web developing, DevOps and Cloud Computing</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*ygaHmPjQnVmEApdT.gif"> 
 
