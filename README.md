@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Avindu</h1>
 
+## 🚀 About Me
+
+- 🎓 Undergraduate at **University of Colombo School of Computing**
+
+<p>Passionate tech enthusiast about Software development, DevOps and Cloud Computing. love to learn, explore latest technologies, solve problems and build better solutions.</p>
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*ygaHmPjQnVmEApdT.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitavi001&label=Profile%20views&color=0e75b6&style=flat" alt="gitavi001" /> </p>
@@ -136,6 +142,8 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/> 
 </a>
 </p>
+
+## 📊 GitHub Analytics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitavi001&show_icons=true&locale=en&layout=compact" alt="gitavi001" /></p>
 
