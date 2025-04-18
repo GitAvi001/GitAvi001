@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitavi001&label=Profile%20views&color=0e75b6&style=flat" alt="gitavi001" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@avindu_sri" target="blank"><img src="https://img.shields.io/twitter/follow/@avindu_sri?logo=twitter&style=for-the-badge" alt="@avindu_sri" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@avindu_sri" target="blank"><img src="https://img.shields.io/twitter/follow/avindu_sri?logo=twitter&style=for-the-badge" alt="@avindu_sri" /></a> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@avindusridharmawardhana](https://medium.com/@avindusridharmawardhana)
 
