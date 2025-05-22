@@ -122,7 +122,7 @@
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
 </a> 
 <a href="https://aws.com/en-in/" target="_blank" rel="noreferrer"> 
-  <img src=" https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
 </a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VScode" width="40" height="40"/> 
