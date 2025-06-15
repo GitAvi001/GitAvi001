@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Undergraduate at **University of Colombo School of Computing**
+- 🎓 Bachelor of Computer Science at **University of Colombo School of Computing**
 - 💻 Former software engineer intern at **WSO2**
 <p>Passionate tech enthusiast about Software development, DevOps and Cloud Computing. love to learn, explore latest technologies, solve problems and build better solutions.</p>
 
